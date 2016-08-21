@@ -69,6 +69,11 @@ $TotalesPeriodo["TotMntExe"]["33"]="0";
 $TotalesPeriodo["TotMntNeto"]["33"]="482880";
 $TotalesPeriodo["TotMntIVA"]["33"]="91752";
 $TotalesPeriodo["TotIVAFueraPlazo"]["33"]="0";
+
+
+<CodImp>'.$TotalesPeriodo["CodImp"]["$indice"].'</CodImp>
+<TotMntImp>'.$TotalesPeriodo["TotMntImp"]["$indice"].'</TotMntImp>
+
 $TotalesPeriodo["TotMntTotal"]["33"]="574632";
 #  
 $TotalesPeriodo["TpoDoc"]["34"]="34";
