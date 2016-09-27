@@ -88,8 +88,8 @@ $TotalesPeriodo["TotMntExe"]["33"]="0";
 $TotalesPeriodo["TotMntNeto"]["33"]="482880";
 $TotalesPeriodo["TotMntIVA"]["33"]="91752";
 $TotalesPeriodo["TotIVAFueraPlazo"]["33"]="0";
-$TotalesPeriodo["CodImp"]["33"]="";
-$TotalesPeriodo["TotMntImp"]["33"]="";
+$TotalesPeriodo["CodImp"]["33"]=""; // codigo tipo de impuesto
+$TotalesPeriodo["TotMntImp"]["33"]=""; // monto total del impuesto
 $TotalesPeriodo["TotMntTotal"]["33"]="574632";
 #  
 $TotalesPeriodo["TpoDoc"]["34"]="34";
