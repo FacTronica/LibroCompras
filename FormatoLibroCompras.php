@@ -57,6 +57,11 @@ $Detalle["MntExe"]["2"]="";
 $Detalle["MntNeto"]["2"]="25629";
 $Detalle["MntIVA"]["2"]="4870";
 $Detalle["MntSinCred"]["2"]="0";
+# Otros Impuestos
+$Detalle["CodImp"]["$i"]=""; // Codigo del Impuesto por ej. 27
+$Detalle["TasaImp"]["$i"]=""; // Tasa de impuesto 20.5
+$Detalle["MntImp"]["$i"]=""; // MOnto del impuestopor ej. 2000
+
 $Detalle["MntTotal"]["2"]="30499";
 
 ##############################################################
