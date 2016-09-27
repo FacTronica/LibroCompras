@@ -43,6 +43,10 @@ $Detalle["MntExe"]["1"]="";
 $Detalle["MntNeto"]["1"]="25629";
 $Detalle["MntIVA"]["1"]="4870";
 $Detalle["MntSinCred"]["1"]="0";
+# Otros Impuestos
+$Detalle["CodImp"]["1"]="27"; // Codigo del Impuesto por ej. 27
+$Detalle["TasaImp"]["1"]="20.5"; // Tasa de impuesto 20.5
+$Detalle["MntImp"]["1"]="2000"; // MOnto del impuestopor ej. 2000
 $Detalle["MntTotal"]["1"]="30499";
 # DOCUMENTO Nº $i 
 $Detalle["TpoDoc"]["2"]="33";
@@ -58,9 +62,9 @@ $Detalle["MntNeto"]["2"]="25629";
 $Detalle["MntIVA"]["2"]="4870";
 $Detalle["MntSinCred"]["2"]="0";
 # Otros Impuestos
-$Detalle["CodImp"]["$i"]=""; // Codigo del Impuesto por ej. 27
-$Detalle["TasaImp"]["$i"]=""; // Tasa de impuesto 20.5
-$Detalle["MntImp"]["$i"]=""; // MOnto del impuestopor ej. 2000
+$Detalle["CodImp"]["2"]="27"; // Codigo del Impuesto por ej. 27
+$Detalle["TasaImp"]["2"]="20.5"; // Tasa de impuesto 20.5
+$Detalle["MntImp"]["2"]="2000"; // MOnto del impuestopor ej. 2000
 
 $Detalle["MntTotal"]["2"]="30499";
 
