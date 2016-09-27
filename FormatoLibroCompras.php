@@ -42,7 +42,12 @@ $Detalle["FolioDocRef"]["1"]="";
 $Detalle["MntExe"]["1"]="";
 $Detalle["MntNeto"]["1"]="25629";
 $Detalle["MntIVA"]["1"]="4870";
-$Detalle["MntSinCred"]["1"]="0";
+# Otros
+$Detalle["IVARetTotal"]["1"]="";
+$Detalle["CodIVANoRec"]["1"]="";
+$Detalle["MntIVANoRec"]["1"]="";
+$Detalle["IVAUsoComun"]["1"]="";
+$Detalle["MntSinCred"]["1"]="";
 # Otros Impuestos
 $Detalle["CodImp"]["1"]="27"; // Codigo del Impuesto por ej. 27
 $Detalle["TasaImp"]["1"]="20.5"; // Tasa de impuesto 20.5
@@ -60,7 +65,12 @@ $Detalle["RznSoc"]["2"]="GASTRONOMICA E INVERSIONES AGUAYO LIMITADA";
 $Detalle["MntExe"]["2"]="";
 $Detalle["MntNeto"]["2"]="25629";
 $Detalle["MntIVA"]["2"]="4870";
-$Detalle["MntSinCred"]["2"]="0";
+# Otros
+$Detalle["IVARetTotal"]["2"]="";
+$Detalle["CodIVANoRec"]["2"]="";
+$Detalle["MntIVANoRec"]["2"]="";
+$Detalle["IVAUsoComun"]["2"]="";
+$Detalle["MntSinCred"]["2"]="";
 # Otros Impuestos
 $Detalle["CodImp"]["2"]="27"; // Codigo del Impuesto por ej. 27
 $Detalle["TasaImp"]["2"]="20.5"; // Tasa de impuesto 20.5
