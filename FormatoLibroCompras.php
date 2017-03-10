@@ -1,4 +1,17 @@
-<?php   
+<?php 
+# DATOS DE CONFIGURACIÓN
+$FACTRONICA["DIRTXTPLANO"]="txt";
+$FACTRONICA["TXTPLANO"]="librocompras.txt";
+$FACTRONICA["DIRXMLLIBRO"]="xml_librocompra";
+$FACTRONICA["XMLLIBRO"]="LIBROCOMPRAS_2016_12.xml";
+$FACTRONICA["URLSERVIDOR"]="http://www.factronica.cl/servidores/servidor_v727"; 
+$FACTRONICA["SCRIPTSERVIDOR"]="recibe_txt_librocompra.php"; 
+$FACTRONICA["TOKEN"]="8Y89Y7B8";
+# DATOS DE CONFIGURACION
+$Config["Produccion"]="1";
+$Config["EnviarSii"]="0";
+$Config["EnviarMail"]="1";
+$Config["MailDestino"]="contacto@factronica.cl";
 # DATOS DE CARATULA
 $Caratula["RutEmisorLibro"]="3728040-2";
 $Caratula["RutEnvia"]="3728040-2";
