@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<LibroCompraVenta xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte LibroCV_v10.xsd">
+<EnvioLibro xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="LIBROCOMPRAS_2017-03">
+<Caratula>
+<RutEmisorLibro>13347732-2</RutEmisorLibro>
+<RutEnvia>13347732-2</RutEnvia>
+<PeriodoTributario>2017-03</PeriodoTributario>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TipoOperacion>COMPRA</TipoOperacion>
+<TipoLibro>MENSUAL</TipoLibro>
+<TipoEnvio>TOTAL</TipoEnvio>
+</Caratula>
+<TmstFirma>2017-03-10T15:10:07</TmstFirma>
+</EnvioLibro><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#LIBROCOMPRAS_2017-03"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>Xqj6uA9LdEFBA9OlSrVXTV5UCR0=</DigestValue></Reference></SignedInfo><SignatureValue>NNfJyVtU5XGfM7j9KMVZQGqMOv9zQuDtI87OsSUv1ioeOcLwuzsTxCHDFeJX8nN1qQZ4kxELGwSHNPs/1i535tBeKXqLZJy/MIW0XJ/uco9hgvKe4IwSlbSnCqiDuPmL5ezXmFigFKNualJEm9r28qE/qmsF0sxa7yFs5eaGV7A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qqhCIj2mP2ppb09WnKVIwGIfXiNBmdv3bOyzPWlFvzLxNjwG8fdnoQH62+mwx1wn
+S7lAmPnfbxgsygkBP/J74VzjhunYTzmpTmXnQy+xHdxyqrnkwVyNQuYlu+FBTsAi
+Fd56HROqnK92T/AZPzciuXYnsgsRc4QonLKEw9p0CV8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGQjCCBSqgAwIBAgIKFmF/hwAAAAIyczANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+AAOCAQEAMdz97ZhBYAjYOe6E3+eHKytdhh6nZiFy1E/Mk4+RGzRhJFKbFW2Ne407
+4PuliqMkb/GmTasA7MpqG9dKQpMO8/BkzpMP0w/uD21/vYG4qFe4jWFYR7Iz8BaI
+W4LZftT6DRfUo+A1edVChsssv4phcrkIC8nYtE9l4+/z2NUbmaL8R8/N8wh3nz0O
+tytnb4vOwmK8Rnl0Gj152LhGcUv9wVcc/jFp2hVvcM4Qj1U2tbE71MIpXEZoKSpR
+l+8Hv3RUNC09HxYdVIUrTcqT9Vl0lRnOtWgJ+agMZ1rhnGDNEy5kuozA6bKpIw0F
+azBPbrPzwihoeam0IoSMisQZZ/dFgA==</X509Certificate></X509Data></KeyInfo></Signature></LibroCompraVenta>
