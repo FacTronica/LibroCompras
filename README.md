@@ -22,19 +22,19 @@ El archivo de texto plano con el formato para el libro de Compras, se debe envia
 <br>Para realizar este proceso se hace uso de librería opensource CURL.
 
 <br>Enviar archivo desde Consola Windows:
-<br>c:\curl\curl.exe --form "datos_librocompra=@c:\curl\envio_libro.txt" http://www.factronica.cl/factronica_webservice_servidor_beta/recibe_librocompra.php
+<br>c:\curl\curl.exe --form "datos_librocompra=@c:\curl\datos_envio_librocompra.txt" http://www.factronica.cl/servidores/servidor_v727/recibe_txt_librocompra.php
 
 Enviar archivo desde Consola Linux:
-<br>curl --form "datos_librocompra=@envio_libro.txt" http://www.factronica.cl/factronica_webservice_servidor_beta/recibe_librocompra.php
+<br>curl --form "datos_librocompra=@datos_envio_librocompra.txt" http://www.factronica.cl/servidores/servidor_v727/recibe_txt_librocompra.php
 
 <h3>Proceso 3: Recuperar Resultados:</h3>
 Consiste en obtener el archivo xml con el libro de Compras.
 
 <br>Recuperar Xml desde Windows:
-<br>c:\curl\curl.exe -o c:\curl\librocompras_777777777_201611.xml http://www.factronica.cl/factronica_webservice_servidor_beta/xml_librocompra/librocompras_777777777_201611.xml
+<br>c:\curl\curl.exe -o c:\curl\librocompras_777777777_201611.xml http://www.factronica.cl/servidores/servidor_v727/xml_librocompra/librocompras_777777777_201611.xml
 
 <br>Recuperar Xml desde Linux:
-<br>curl -o librocompras_777777777_201611.xml http://www.factronica.cl/factronica_webservice_servidor_beta/xml_librocompra/librocompras_777777777_201611.xml
+<br>curl -o librocompras_777777777_201611.xml http://www.factronica.cl/servidores/servidor_v727/xml_librocompra/librocompras_777777777_201611.xml
 
 <br>Documentación Oficial del SII:
 Manual para Construcción del Xml Libro de Compras:
