@@ -49,7 +49,7 @@ $DetalleOtrosImp["TasaImp"]["1"]["1"]="12";
 $DetalleOtrosImp["MntImp"]["1"]["1"]="12000";
 # DATOS DEL RESUMEN
 $Resumen["TpoDoc"]["33"]="33";
-$Resumen["TpoImp"]["33"]="";
+$Resumen["TpoImp"]["33"]="1";
 $Resumen["TotDoc"]["33"]="79";
 $Resumen["TotAnulado"]["33"]="";
 $Resumen["TotOpExe"]["33"]="";
