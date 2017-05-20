@@ -7,6 +7,8 @@ $FACTRONICA["XMLLIBRO"]="LIBROCOMPRAS_2016_12.xml";
 $FACTRONICA["URLSERVIDOR"]="http://www.factronica.cl/servidores/servidor_v727"; 
 $FACTRONICA["SCRIPTSERVIDOR"]="recibe_txt_librocompra.php"; 
 $FACTRONICA["TOKEN"]="8Y89Y7B8";
+$FACTRONICA["FOLDERFILES"]="xml_librocompra";
+$FACTRONICA["TRACKID"]="trackid_librocompras_201608.xml";
 # DATOS DE CONFIGURACION
 $Config["Produccion"]="1";
 $Config["EnviarSii"]="0";
