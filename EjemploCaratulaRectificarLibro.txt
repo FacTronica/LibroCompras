@@ -1,0 +1,12 @@
+# DATOS DE CARATULA
+$Caratula["RutEmisorLibro"]="11111111-1";
+$Caratula["RutEnvia"]="2222222-2";
+$Caratula["PeriodoTributario"]="2016-11";
+$Caratula["FchResol"]="2014-08-22";
+$Caratula["NroResol"]="80";
+$Caratula["TipoOperacion"]="VENTA";
+$Caratula["TipoLibro"]="RECTIFICA";
+$Caratula["TipoEnvio"]="TOTAL";
+$Caratula["NroSegmento"]="";
+$Caratula["FolioNotificacion"]="";
+$Caratula["CodAutRec"]="123456";
